@@ -2,7 +2,6 @@
 <html dir="rtl">
 <head>
 <title>التقنية الرقمية</title>
-<title> تواصل معنا</title>
 </head>
 <body>
 
